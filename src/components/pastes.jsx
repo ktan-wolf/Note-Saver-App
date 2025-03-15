@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { removePaste } from '../redux/pasteSlice';
 import {toast} from 'react-hot-toast';
-import { CopyToClipboard } from 'react-copy-to-clipboard'
-import { NavLink } from 'react-router-dom';
 
 
 const pastes = () => {
