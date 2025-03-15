@@ -25,7 +25,8 @@ Backend: Node.js + Express.js
 # Steps to Run Locally
 1. Clone the repository
  -https://github.com/ktan-wolf/Note-Saver-App.git
- -cd 
+ -cd Note-Saver-App
+ 
 
 2. Install Dependencies
  -npm install
