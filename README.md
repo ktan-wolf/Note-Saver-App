@@ -1,8 +1,8 @@
-NoteSaver
+# NoteSaver
 
 NoteSaver is a simple web application that allows users to create, read, update, and delete (CRUD) notes or pastes. It provides an intuitive interface for managing personal notes efficiently.
 
-Features
+# Features
 
 📝 Create new pastes (notes)
 
@@ -14,24 +14,22 @@ Features
 
 🔒 Private and secure storage
 
-Tech Stack
+# Tech Stack
 
 Frontend: React (Vite) + Tailwind CSS
 
 Backend: Node.js + Express.js
 
-Database: MongoDB (Mongoose ORM)
 
-Authentication: JWT-based authentication (if required)
 
-Installation & Setup
+# Steps to Run Locally
+1. Clone the repository
+ -https://github.com/ktan-wolf/Note-Saver-App.git
+ -cd 
 
-Prerequisites
+2. Install Dependencies
+ -npm install
 
-Make sure you have the following installed:
-
-Node.js
-
-MongoDB
-
-Git
+3. Run the project
+ -npm run dev
+ 
